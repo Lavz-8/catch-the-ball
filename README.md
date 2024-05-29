@@ -30,20 +30,20 @@ This project implements a fun and engaging game called "Catch the Ball" using Py
 ## Usage
 
 1. **Run the game:**
-Open a terminal or command prompt, navigate to the directory where you saved **catch_the_ball.py**, and run:
-  ```bash
-  python catch_the_ball.py
-  ```
+   Open a terminal or command prompt, navigate to the directory where you saved **catch_the_ball.py**, and run:
+   ```bash
+   python catch_the_ball.py
+   ```
 2. **Controls:**
 
-- **Left Arrow Key**: Move the paddle left.
-- **Right Arrow Key**: Move the paddle right.
+   - **Left Arrow Key**: Move the paddle left.
+   - **Right Arrow Key**: Move the paddle right.
   
 3. **Gameplay:**
 
-- Catch the falling balls with the paddle to score points.
-- If a ball falls past the paddle, you lose a life.
-- The game ends when you run out of lives.
+   - Catch the falling balls with the paddle to score points.
+   - If a ball falls past the paddle, you lose a life.
+   - The game ends when you run out of lives.
 
 ## Credits
 This game was created by **Lavanya Varadharajan**.
