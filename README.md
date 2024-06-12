@@ -44,6 +44,9 @@ This project implements a fun and engaging game called "Catch the Ball" using Py
    - Catch the falling balls with the paddle to score points.
    - If a ball falls past the paddle, you lose a life.
    - The game ends when you run out of lives.
+  
+## Output
+![catchbsall](https://github.com/Lavz-8/catch-the-ball/assets/145861363/063c4847-def9-46ae-8be7-793d2c016192)
 
 ## Credits
 This game was created by **Lavanya Varadharajan**.
